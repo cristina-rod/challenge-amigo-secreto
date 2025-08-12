@@ -16,7 +16,8 @@
 
 :heavy_check_mark: O nome escolhido será exibido em destaque
 
-<h2> Layout ou Deploy da Aplicação :dash: </h2> 
+<h2> Deploy da Aplicação :dash: </h2> 
+Acesse a aplicação: https://cristina-rod.github.io/challenge-amigo-secreto/
 
 <h2> :dizzy: Teconologias Usadas </h2>
 
