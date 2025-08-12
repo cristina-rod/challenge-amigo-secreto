@@ -20,6 +20,10 @@
 
 <h2> :dizzy: Teconologias Usadas </h2>
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 <h2> :rocket: Abrir e rodar o projeto </h2>
 
 ```
@@ -38,3 +42,6 @@ no VS Code para abrir a aplicação direto no navegador.
 Este código está disponível para uso educacional e livre compartilhamento.
 ```
 <h2>Desenvolvedores/Contribuintes :octocat: </h2> 
+Laura Rocha
+
+LinkedIn: https://linkedin.com/in/laura-rocha98
